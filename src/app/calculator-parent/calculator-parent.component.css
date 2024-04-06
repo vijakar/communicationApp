@@ -1,0 +1,13 @@
+.parent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+label{
+    width: 30px;
+}
+input{
+    outline: none;
+    
+}
